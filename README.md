@@ -128,3 +128,4 @@ Open your web browser and navigate to: [http://localhost:5001](http://127.0.0.1:
 ## Task boards
 
 Sprint 1:  [Sprint 1 Task Board](https://github.com/orgs/software-students-spring2025/projects/110/views/1?layout=board)
+Spring 2:  [Sprint 2 Task Board](https://github.com/orgs/software-students-spring2025/projects/139)
